@@ -34,7 +34,7 @@ const UserInfo = () => {
       'id': 4,
       icon: <GoGist className="icon" />,
       label: 'gists',
-      value: public_repos,
+      value: public_gists,
       color: 'yellow'
     },
   ]
